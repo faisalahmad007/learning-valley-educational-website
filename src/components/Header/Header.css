@@ -1,0 +1,18 @@
+.header-color{
+    font-family: 'Roboto', sans-serif;
+    background-color: black;;
+    padding:20px;
+}
+.nav-details {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    
+}
+.nav-details NavLink {
+    text-decoration: none;
+    color:white;
+}
+.header-color{
+    font-family: 'Roboto', sans-serif;
+    color:white;
+}

@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+    "title": "Caregiving Skills",
+    "price": 110,
+    "description": "Learn more about caregiving skills you need for working effectively with clients who are suffering from dementia",
+    "category": "Health",
+    "img": "https://i.ibb.co/Hzrcp6M/caregiving.jpg"
+    },
+    
+    {   
+        "id": 2,
+        "title": "Food Safety & Hygiene in the Catering Industry",
+        "price": 200 ,
+        "description": "Learn about proper food preparation, storage, and hygiene practices with this food safety training course",
+        "category": "Management",
+        "img": "https://i.ibb.co/HBnrNcF/foodsafety.jpg"
+    },
+    
+    {"id": 3,
+        "title": "Introduction to Supervision",
+        "price": 250,
+        "description": "Learn more about developing your supervisory skills",
+        "category": "Business",
+        "img": "https://i.ibb.co/fnvFtMD/suoervision.jpg"
+       
+    },
+        
+    {   
+        "id": 4,
+        "title": "Safeguarding Vulnerable Adults",
+        "price": 300,
+        "description": "This online caregiving course helps you to protect vulnerable adults, at home or as part of your work.",
+        "category": "Personal Development",
+        "img": "https://i.ibb.co/0tRT6CP/safeguard.jpg"
+    },
+        
+    {
+        "id": 5,
+        "title": "Working with Students with Special Educational Needs",
+        "price": 320,
+        "description": "Improve your special education teaching methods with this introductory special education needs course",
+        "category": "Teaching & Academics ",
+        "img": "https://i.ibb.co/tLxg5Qt/teaching.jpg"
+    },
+        
+    {
+        "id": 6,
+        "title": "Programming for Everybody (Getting Started with Python)",
+        "price": 350,
+        "description": "This course is a no prerequisite introduction to Python Programming. You will learn about variables, conditional execution, repeated execution and how we use functions.",
+        "category": "Technology",
+        "img": "https://i.ibb.co/p2RTZ4p/python.png"
+    },
+        
+    {
+        "id": 7,
+        "title": " CPR, AED and First Aid",
+        "price": 400,
+        "description": "Complete this online course on CPR, AED and First Aid and apply for a certificate to become globally accredited",
+        "category": "Health",
+        "img": "https://i.ibb.co/pLg78dM/health.jpg"
+    },
+        
+    {
+        "id": 8,
+        "title": "Food Safety Training - Safe Practices and Procedures",
+        "price": 450,
+        "description": "Learn more about the food sanitation practices and procedures with this food safety training online course",
+        "category": "Business",
+        "img": "https://i.ibb.co/rtfTfbD/safety.jpg"
+    },
+        
+    {
+        "id": 9,
+        "title": "Hazard Recognition and Risk Assessment",
+        "price": 500,
+        "description": "Learn why hazard recognition and risk assessment are so important in today's workplace with this free online course",
+        "category": "Business",
+        "img": "https://i.ibb.co/7V1Vc73/hazard.jpg"
+    }
+]
