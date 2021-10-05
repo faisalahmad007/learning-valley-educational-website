@@ -6,14 +6,14 @@ const Course = (props) => {
         return (
            
         <Col>
-          <Card>
+          <Card bg="grey" style={{ width: '18rem' }}>
             <Card.Img variant="top" src={img} />
             <Card.Body>
             
             <Card.Title>Course Id:{id}</Card.Title>
               <Card.Title>Course Title:{title}</Card.Title>
               <Card.Text>
-                 Price:{price}
+                 Price:${price}
               </Card.Text>
               <Card.Text>
                 Category:{category}

@@ -10,9 +10,13 @@
 }
 .nav-details NavLink {
     text-decoration: none;
-    color:white;
+    color:goldenrod;
 }
 .header-color{
     font-family: 'Roboto', sans-serif;
     color:white;
 }
+.header-details{
+    color: darkCyan;
+}
+
